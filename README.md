@@ -94,6 +94,6 @@ Other possible patterns which can also be considered for the project, but are no
 To run tests, run the following command in the root folder:
 
 ```bash
-  phpunit
+  phpunit tests
 ```
 
